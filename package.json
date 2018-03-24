@@ -1,0 +1,24 @@
+{
+  "name": "home-server",
+  "version": "1.0.0",
+  "description": "Lets you start a web server in a determined directory",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Corrado Canepari <caneparicorrado@outlook.it>",
+  "license": "MIT",
+  "dependencies": {
+    "caporal": "^0.10.0",
+    "express": "^4.16.3",
+    "ip": "^1.1.5",
+    "serve-index": "^1.9.1"
+  },
+  "keywords": [
+    "server", "serve-index", "network"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodingHobby/home-server.git"
+  }
+}
