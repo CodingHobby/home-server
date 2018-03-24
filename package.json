@@ -1,5 +1,5 @@
 {
-  "name": "home-server",
+  "name": "home-file-server",
   "version": "1.0.0",
   "description": "Lets you start a web server in a determined directory",
   "main": "server.js",
