@@ -1,6 +1,6 @@
 {
   "name": "home-file-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lets you start a web server in a determined directory",
   "main": "server.js",
   "scripts": {
@@ -15,7 +15,9 @@
     "serve-index": "^1.9.1"
   },
   "keywords": [
-    "server", "serve-index", "network"
+    "server",
+    "serve-index",
+    "network"
   ],
   "repository": {
     "type": "git",
